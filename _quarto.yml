@@ -9,12 +9,12 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - icon: book
+        href: https://www.skoob.com.br/usuario/10490743
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
 
 editor: visual
-
+lang: pt

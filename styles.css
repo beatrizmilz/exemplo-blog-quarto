@@ -1,1 +1,12 @@
 /* css styles */
+
+.quarto-title-banner {
+  margin-bottom: 1em;
+  color: #fff;
+  background: #c278c1;
+}
+
+.navbar {
+  background-color: #c278c1;
+  color: #fff;
+}
